@@ -8,7 +8,7 @@ set -e
 
 CHROOT="/data/UserData/pw-chroot"
 NORNS_HOME="$CHROOT/home/we"
-MODULE_DIR="/data/UserData/move-anything/modules/tools/norns"
+MODULE_DIR="/data/UserData/schwung/modules/tools/norns"
 BUILD_FROM_SOURCE="${NORNS_BUILD_FROM_SOURCE:-0}"
 
 # Pre-built binary URL — update this when publishing a new release
